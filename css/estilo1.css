@@ -1,0 +1,19 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: wheat;
+    text-align: center;
+  }
+
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(19, 129, 126);
+  }
+
+.container{
+    background-color: chocolate;
+    height: 100px;
+}
